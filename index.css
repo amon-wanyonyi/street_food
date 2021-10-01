@@ -39,6 +39,11 @@ a {
     opacity: 5;
 }
 
+#street {
+    padding: 30px;
+    font-family: poppins;
+}
+
 #street #style {
     font-family: poppins;
     color: #6CB840;
