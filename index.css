@@ -4,6 +4,18 @@ body {
     font-family: poppins;
 }
 
+.blob {
+    min-height: 700px;
+    min-width: 900px;
+    background-color: #649549;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    opacity: 0.5;
+}
+
 nav {
     display: flex;
     width: 100%;
@@ -17,16 +29,18 @@ a {
     text-decoration: none;
     color: rgba(0, 0, 0, 0.8);
     margin: 0px 40px;
-    font-weight: bold;
+    font-weight: bolder;
+    opacity: 5;
+}
+
+#logo {
+    width: 10 0px;
+    height: 50%;
+    opacity: 5;
 }
 
 
-/* #logo {
-    width: 10 0px;
-    height: 50%;
-} */
-
-#star-five {
+/* #star-five {
     margin: 90px 0;
     position: relative;
     display: block;
@@ -75,4 +89,4 @@ a {
     font-weight: bold;
     text-align: justify;
     position: ;
-}
+} */
