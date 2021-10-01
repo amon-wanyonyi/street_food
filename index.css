@@ -63,12 +63,6 @@ a {
     color: #EAAB1B;
 }
 
-.text-box {
-    float: left;
-    margin-left: 44vw;
-    margin-top: 42vh;
-}
-
 .btn:link,
 .btn:visited {
     text-decoration: none;
