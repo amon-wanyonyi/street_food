@@ -64,15 +64,15 @@ a {
 }
 
 .text-box {
+    float: left;
     margin-left: 44vw;
     margin-top: 42vh;
 }
 
 .btn:link,
 .btn:visited {
-    text-transform: uppercase;
     text-decoration: none;
-    padding: 15px 40px;
+    padding: 15px 25px;
     display: inline-block;
     border-radius: 100px;
     transition: all .2s;
@@ -91,7 +91,7 @@ a {
 
 .btn-light-green {
     background-color: #6CB840;
-    color: #777;
+    color: #fff;
 }
 
 .btn::after {
