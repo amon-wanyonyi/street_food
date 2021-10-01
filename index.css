@@ -44,8 +44,12 @@ a {
     font-family: poppins;
 }
 
+#street h3 {
+    font-weight: 700;
+    font-size: 30px;
+}
+
 #street #style {
-    font-family: poppins;
     color: #6CB840;
 }
 
