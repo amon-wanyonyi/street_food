@@ -42,6 +42,7 @@ a {
 #street {
     padding: 30px;
     font-family: poppins;
+    background: #eee;
 }
 
 #street h3 {
@@ -125,4 +126,9 @@ a {
     color: #EAAB1B;
     font-size: 30px;
     font-weight: 700;
+}
+
+.together p {
+    font-family: poppins;
+    font-size: 20px;
 }
