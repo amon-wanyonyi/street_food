@@ -118,8 +118,11 @@ a {
 }
 
 .together {
-    text-align: justify;
-    font-weight: 700;
-    font-size: 30px;
+    text-align: center;
+}
+
+.together h3 {
     color: #EAAB1B;
+    font-size: 30px;
+    font-weight: 700;
 }
