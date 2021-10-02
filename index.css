@@ -1,12 +1,12 @@
 body {
-    height: 100%;
+    width: 100%;
     margin: 0;
     font-family: poppins;
 }
 
 .blob {
-    min-height: 700px;
-    min-width: 900px;
+    min-height: 350px;
+    min-width: 1000px;
     background-color: #649549;
     border-bottom-left-radius: 100%;
     border-bottom-right-radius: 0;
@@ -108,4 +108,18 @@ a {
 .btn:hover::after {
     transform: scaleX(1.4) scaleY(1.6);
     opacity: 0;
+}
+
+.together img {
+    float: left;
+    padding: 10px;
+    width: 50%;
+    height: 450px;
+}
+
+.together {
+    text-align: justify;
+    font-weight: 700;
+    font-size: 30px;
+    color: #EAAB1B;
 }
