@@ -136,3 +136,11 @@ a {
 .explore-menu {
     background: #eee;
 }
+
+.explore-menu h3 {
+    text-align: center;
+}
+
+#explore {
+    color: #000000;
+}
