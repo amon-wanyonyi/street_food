@@ -272,3 +272,19 @@ h3 {
 #drinks h2 {
     color: #6CB840;
 }
+
+.contact-us h2 {
+    text-align: center;
+}
+
+#contact-us {
+    color: #000000;
+}
+
+.contact-us p {
+    text-align: center;
+}
+
+#us {
+    color: #6CB840;
+}
