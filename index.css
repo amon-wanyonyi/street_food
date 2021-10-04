@@ -273,8 +273,8 @@ h3 {
     color: #6CB840;
 }
 
-.contact-us h2 {
-    text-align: center;
+.contact-us {
+    align-items: center;
 }
 
 #contact-us {
@@ -288,7 +288,7 @@ h3 {
 }
 
 .contact_us {
-    align-items: center;
+    text-align: center;
     background: #FFD77C;
 }
 
