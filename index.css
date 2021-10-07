@@ -247,14 +247,10 @@ h3 {
     padding: 20px;
 }
 
-.parent {
-    padding: 20px;
-}
-
-.child {
-    padding: 20px;
-    position: relative;
-    margin-top: 10px;
+.img img:nth-child(2) {
+    margin-right: 900px;
+    margin-top: -350px;
+    left: 0;
 }
 
 .columnz1 {
