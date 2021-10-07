@@ -247,6 +247,10 @@ h3 {
     padding: 20px;
 }
 
+.parent {
+    background: #C9ECB5;
+}
+
 .img img:nth-child(2) {
     margin-right: 900px;
     margin-top: -350px;
@@ -254,7 +258,9 @@ h3 {
 }
 
 .columnz1 {
-    float: right;
+    margin-top: -450px;
+    margin-left: 620px;
+    font-size: 20px;
 }
 
 #sec #hot {
