@@ -7,7 +7,6 @@
 * CSS
 
 ## Screenshot
-<img src="Assets/scr.png">
 <img src="Assets/scr1.png">
 <img src="Assets/scr2.png">
 <img src="Assets/scr3.png">
