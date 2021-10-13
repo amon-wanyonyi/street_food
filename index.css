@@ -361,24 +361,3 @@ i {
     width: 12%;
     border-right: 2px dashed #81C35A;
 }
-
-
-/* Media querry */
-
-
-/* @media (max-width: 768px) {
-    .eat_section{
-        flex-direction: column;
-    }
-    .eat_section div{
-        width: 60%;
-        padding-bottom: 20px;
-    }
-    .menu_section1{
-        flex-direction: column;
-        height: 100vh;
-    }
-    .menu_item img{
-        width: 120px;
-    }
-} */
